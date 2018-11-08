@@ -1,6 +1,8 @@
 The Command Line Murder
 ========================
 
+Worked on this challenge during the Makers pre-course. 
+
     .OOOOOOOOOOOOOOO @@                                   @@ OOOOOOOOOOOOOOOO.
     OOOOOOOOOOOOOOOO @@                                    @@ OOOOOOOOOOOOOOOO
     OOOOOOOOOO'''''' @@                                    @@ ```````OOOOOOOOO
